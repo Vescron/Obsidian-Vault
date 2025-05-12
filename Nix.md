@@ -6,5 +6,5 @@
 ### To-do :
 1. Switch to hyprland at some point
 2. Better understanding of nix commands and make more modules
-3. Continue to keep EVERYTHING declarative
+3. Continue to keep EVERYTHING declarative.
 
